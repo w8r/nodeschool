@@ -1,0 +1,27 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "cause no one wants to be rusty",
+  "main": "index.js",
+  "dependencies": {
+    "bytewiser": "^2.1.0",
+    "count-to-6": "^0.8.0",
+    "promise-it-wont-hurt": "^1.0.0-alpha.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "promise-it-wont-hurt": "promise-it-wont-hurt",
+    "bytewiser": "bytewiser",
+    "count-to-6": "count-to-6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w8r/nodeschool.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w8r/nodeschool/issues"
+  },
+  "homepage": "https://github.com/w8r/nodeschool#readme"
+}
