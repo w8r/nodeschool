@@ -12,7 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "promise-it-wont-hurt": "promise-it-wont-hurt",
     "bytewiser": "bytewiser",
-    "count-to-6": "count-to-6"
+    "count-to-6": "count-to-6",
+    "webgl-workshop": "webgl-workshop",
+    "introtowebgl": "introtowebgl"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/w8r/nodeschool/issues"
   },
-  "homepage": "https://github.com/w8r/nodeschool#readme"
+  "homepage": "https://github.com/w8r/nodeschool#readme",
+  "devDependencies": {
+    "inquirer": "^1.2.3",
+    "opener": "^1.4.2",
+    "stream-browserify": "^2.0.1"
+  }
 }
